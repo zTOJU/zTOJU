@@ -17,10 +17,8 @@
   <span>-</span>
   <b><a href="https://wakatime.com/@TOJU">WakaTime</a></b>
 </p>
-<br/>
 <h2 align="center">I primarily use <a href="https://gitlab.com/zTOJU">GitLab</a> for my projects.</h2>
 <p align="center">At the moment, all of my 50+ private repositories are at GitLab. Maybe in the future I will also present some projects here.</p>
-<br/>
 <h2 align="center">My Coding Statistics</h2>
 <p align="center">Powered by <a href="https://wakatime.com/@TOJU">WakaTime.com</a></p>
 <p float="left" align="center">
