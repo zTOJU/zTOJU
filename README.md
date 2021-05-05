@@ -27,6 +27,5 @@
   <img width="49%" height="auto" src="https://wakatime.com/share/@TOJU/0f13fe21-77bc-4b1f-8aea-6093cfc2ae77.svg"/>
   <img width="49%" height="auto" src="https://wakatime.com/share/@TOJU/7c202986-5e06-46af-b1bd-f6b213d0ca62.svg"/> 
 </p>
-<br>
-<hr/><br>
+<hr/>
 <p align="center"><img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=zTOJU.zTOJU"/></p>
