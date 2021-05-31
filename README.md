@@ -9,6 +9,20 @@
   <img src="https://img.shields.io/badge/Expert-3D%20Modeling-brightgreen"/>
 </p>
 <hr>
+<h3>🛠️ Skills</h3>
+<h4>Daily Drivers</h4>
+<p align="left">
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
+  
+</p>
+
+
+
+
+
+
+<h3>📊 Stats</h3>
+
 
 <h2 align="center"> Developer, 3D Modeler and Owner of a German Garry's Mod Community.</h2>
 <p align="center">
