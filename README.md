@@ -44,7 +44,7 @@
   <code><a href="https://www.typescriptlang.org/"><img height="50" alt="Typescript" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/typescript.svg"></a></code>
   <code><a href="https://reactjs.org/"><img height="50" alt="React.js" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/react.svg"></a></code>
   <code><a href="https://redux.js.org/"><img height="50" alt="Redux" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/redux.svg"></a></code>
-  <code><a href="https://nextjs.org/"><img height="50" alt="Next.js" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/nextjs.svg"></a></code>
+  <code><a href="https://nextjs.org/"><img height="50" alt="Next.js" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/next.svg"></a></code>
   <code><a href="https://redis.io/"><img height="50" alt="Redis" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/redis.svg"></a></code>
   <code><a href="https://www.docker.com/"><img height="50" alt="Docker" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/docker.svg"></a></code>
 </p>
