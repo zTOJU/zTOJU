@@ -19,6 +19,7 @@
   <code><a href="https://code.visualstudio.com/"><img height="50" alt="Visual Studio Code" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/visualstudiocode.svg"></a></code>
   <code><a href="https://www.blender.org/"><img height="50" alt="Blender" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/blender.svg"></a></code>
   <code><a href="https://www.substance3d.com/products/substance-painter/"><img height="50" alt="Substance Painter" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/substancepainter.svg"></a></code>
+  <code><a href="https://www.gimp.org/"><img height="50" alt="Gimp" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/gimp.svg"></a></code>
 </p>
 <h4>Experienced With:</h4>
 <p align="left">
@@ -27,6 +28,25 @@
   <code><a href="https://getbootstrap.com/"><img height="50" alt="Bootstrap" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/bootstrap.svg"></a></code>
   <code><a href="https://www.javascript.com/"><img height="50" alt="Javascript" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/javascript.svg"></a></code>
   <code><a href="https://www.php.net/"><img height="50" alt="PHP" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/php.svg"></a></code>
+  <code><a href="https://www.android.com/"><img height="50" alt="Android" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/android.svg"></a></code>
+  <code><a href="https://www.debian.org/"><img height="50" alt="Debian" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/debian.svg"></a></code>
+</p>
+<h4>Used in the past:</h4>
+<p align="left">
+  <code><a href="https://java.com/"><img height="50" alt="Java" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/java.svg"></a></code>
+  <code><a href="https://www.python.org/"><img height="50" alt="Python" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/python.svg"></a></code>
+  <code><a href="https://unity.com/"><img height="50" alt="Unity" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/unity.svg"></a></code>
+</p>
+<h4>Currently Experimenting With (Learning):</h4>
+<p align="left">
+  <code><a href="https://github.com/WoltLab/WCF"><img height="50" alt="WSC" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/woltlab.svg"></a></code>
+  <code><a href="https://laravel.com/"><img height="50" alt="Laravel" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/laravel.svg"></a></code>
+  <code><a href="https://www.typescriptlang.org/"><img height="50" alt="Typescript" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/typescript.svg"></a></code>
+  <code><a href="https://reactjs.org/"><img height="50" alt="React.js" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/react.svg"></a></code>
+  <code><a href="https://redux.js.org/"><img height="50" alt="Redux" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/redux.svg"></a></code>
+  <code><a href="https://nextjs.org/"><img height="50" alt="Next.js" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/nextjs.svg"></a></code>
+  <code><a href="https://redis.io/"><img height="50" alt="Redis" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/redis.svg"></a></code>
+  <code><a href="https://www.docker.com/"><img height="50" alt="Docker" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/docker.svg"></a></code>
 </p>
 
 <h3>🚧 Projects</h3>
