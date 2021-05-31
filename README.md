@@ -16,10 +16,18 @@
   <code><a href="https://www.mysql.com/"><img height="50" alt="MySQL" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/mysql.svg"></a></code>
   <code><a href="https://developer.valvesoftware.com/wiki/Source"><img height="50" alt="Source Engine" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/sourceengine.svg"></a></code>
   <code><a href="https://git-scm.com/"><img height="50" alt="Git" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/git.svg"></a></code>
+  <code><a href="https://code.visualstudio.com/"><img height="50" alt="Visual Studio Code" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/visualstudiocode.svg"></a></code>
+  <code><a href="https://www.blender.org/"><img height="50" alt="Blender" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/blender.svg"></a></code>
+  <code><a href="https://www.substance3d.com/products/substance-painter/"><img height="50" alt="Substance Painter" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/substancepainter.svg"></a></code>
 </p>
 <h4>Experienced With:</h4>
-
-
+<p align="left">
+  <code><a href="https://de.wikipedia.org/wiki/HTML5"><img height="50" alt="HTML5" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/html5.svg"></a></code>
+  <code><a href="https://de.wikipedia.org/wiki/Cascading_Style_Sheets"><img height="50" alt="CSS3" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/css3.svg"></a></code>
+  <code><a href="https://getbootstrap.com/"><img height="50" alt="Bootstrap" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/bootstrap.svg"></a></code>
+  <code><a href="https://www.javascript.com/"><img height="50" alt="Javascript" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/javascript.svg"></a></code>
+  <code><a href="https://www.php.net/"><img height="50" alt="PHP" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/php.svg"></a></code>
+</p>
 
 <h3>🚧 Projects</h3>
 
