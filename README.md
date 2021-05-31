@@ -10,15 +10,18 @@
 </p>
 <hr>
 <h3>🛠️ Skills</h3>
-<h4>Daily Drivers</h4>
+<h4>Daily Drivers:</h4>
 <p align="left">
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  
+  <code><a href="http://www.lua.org/"><img height="50" alt="Lua" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/lua.svg"></a></code>
+  <code><a href="https://www.mysql.com/"><img height="50" alt="MySQL" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/mysql.svg"></a></code>
+  <code><a href="https://developer.valvesoftware.com/wiki/Source"><img height="50" alt="Source Engine" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/sourceengine.svg"></a></code>
+  <code><a href="https://git-scm.com/"><img height="50" alt="Git" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/git.svg"></a></code>
 </p>
+<h4>Experienced With:</h4>
 
 
 
-
+<h3>🚧 Projects</h3>
 
 
 <h3>📊 Stats</h3>
