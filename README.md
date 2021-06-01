@@ -63,7 +63,7 @@
   <dd>• <a href="https://www.gmodstore.com/users/TOJU/reputation">Freelancer (mainly 3d modeling)</a></dd>
 </ul>
 <h3>📊 Stats</h3>
-<p>I commited something <b>{{ COMMITS }}</b> times in <b>{{ REPOSITORIES_CONTRIBUTED_TO }}</b> repositories</p>
+<p>I commited something <b>153</b> times in <b>5</b> repositories</p>
 <br>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
