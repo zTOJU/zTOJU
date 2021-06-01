@@ -62,5 +62,5 @@
   <dd>• <a href="https://www.gmodstore.com/teams/2128/addons">Content Creator</a></dd>
   <dd>• <a href="https://www.gmodstore.com/users/TOJU/reputation">Freelancer (mainly 3d modeling)</a></dd>
 </ul>
-
 <h3>📊 Stats</h3>
+<p>I commited something <b>{{ COMMITS }}</b> times in <b>{{ REPOSITORIES_CONTRIBUTED_TO }}</b> repositories</p>
