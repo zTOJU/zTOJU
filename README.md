@@ -7,6 +7,12 @@
   <br>
   <img src="https://img.shields.io/badge/Focus-Game%20%26%20Web Development-brightgreen"/>
   <img src="https://img.shields.io/badge/Expert-3D%20Modeling-brightgreen"/>
+  <br>
+  <a href="https://toju.xyz/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&link=https://toju.xyz/"/></a>
+  <a href="https://toju.xyz/discord"><img src="https://img.shields.io/discord/709853073039687761?color=blueviolet&label=Discord&logo=discord&logoColor=white&link=https://toju.xyz/discord/"/></a>
+  <a href="https://steamcommunity.com/id/zTOJU/"><img src="https://img.shields.io/badge/Steam-blue?logo=Steam&logoColor=white&link=https://steamcommunity.com/id/zTOJU/"/></a>
+  <a href="https://www.youtube.com/channel/UCxCbplvjzZZlNz9eIFoOgRQ"><img src="https://img.shields.io/badge/YouTube-critical?logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCxCbplvjzZZlNz9eIFoOgRQ"/></a>
+  <a href="https://sketchfab.com/ztoju"><img src="https://img.shields.io/badge/Sketchfab-informational?logo=Sketchfab&logoColor=white&link=https://sketchfab.com/ztoju"/></a>
 </p>
 <hr>
 <h3>🛠️ Skills</h3>
@@ -58,24 +64,3 @@
 </ul>
 
 <h3>📊 Stats</h3>
-
-
-<h2 align="center"> Developer, 3D Modeler and Owner of a German Garry's Mod Community.</h2>
-<p align="center">
-  <b><a href="https://toju.xyz/">Portfolio</a></b>
-  <span>-</span>
-  <b><a href="https://discord.toju.xyz/">Discord</a></b>
-  <span>-</span>
-  <b><a href="https://steamcommunity.com/id/zTOJU">Steam</a></b>
-  <span>-</span>
-  <b><a href="https://www.youtube.com/channel/UCxCbplvjzZZlNz9eIFoOgRQ">YouTube</a></b>
-  <span>-</span>
-  <b><a href="https://www.gmodstore.com/users/TOJU">GModStore</a></b>
-  <span>-</span>
-  <b><a href="https://gitlab.com/zTOJU">GitLab</a></b>
-  <span>-</span>
-  <b><a href="https://sketchfab.com/ztoju">Sketchfab</a></b>
-  <span>-</span>
-  <b><a href="https://wakatime.com/@TOJU">WakaTime</a></b>
-  <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=zTOJU.zTOJU"/>
-</p>
