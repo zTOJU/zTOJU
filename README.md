@@ -66,7 +66,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 May, 2021 - 04 June, 2021
+Week: 29 May, 2021 - 05 June, 2021
 
 Lua        5 hrs 13 mins   ███████████████████▓░░░░░   78.36 % 
 Markdown   33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
