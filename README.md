@@ -66,8 +66,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 June, 2021 - 20 June, 2021
+Week: 14 June, 2021 - 21 June, 2021
 
-Lua   1 hr 33 mins    █████████████████████████   100.00 % 
+Lua   1 hr 52 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
