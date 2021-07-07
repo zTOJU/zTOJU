@@ -66,7 +66,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 June, 2021 - 05 July, 2021
+Week: 30 June, 2021 - 06 July, 2021
 
 Lua    26 mins         ████████████░░░░░░░░░░░░░   47.52 % 
 CSS    22 mins         ██████████▒░░░░░░░░░░░░░░   40.91 % 
