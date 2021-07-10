@@ -56,11 +56,9 @@
 </p>
 <h3>🚧 Projects</h3>
 <ul>
-  <li><a href="https://hasengaming.de/">Hasen Gaming</a></li>
-  <dd>• <a href="https://store.steampowered.com/app/4000/Garrys_Mod/">Garry's Mod</a> PoliceRP-Server</dd>
   <li><a href="https://www.gmodstore.com/users/TOJU">GModStore</a></li>
-  <dd>• <a href="https://www.gmodstore.com/teams/2128/addons">Content Creator</a></dd>
-  <dd>• <a href="https://www.gmodstore.com/users/TOJU/reputation">Freelancer (mainly 3d modeling)</a></dd>
+  <dd>• <a href="https://www.gmodstore.com/users/TOJU/addons">Content Creator</a></dd>
+  <dd>• <a href="https://www.gmodstore.com/users/TOJU/reputation">Freelancer</a></dd>
 </ul>
 <h3>📊 Stats</h3>
 
