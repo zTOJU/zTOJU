@@ -64,7 +64,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 July, 2021 - 10 July, 2021
+Week: 05 July, 2021 - 11 July, 2021
 
 HTML    30 mins         █████████▓░░░░░░░░░░░░░░░   38.93 % 
 Other   25 mins         ████████░░░░░░░░░░░░░░░░░   32.12 % 
