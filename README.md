@@ -64,7 +64,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 July, 2021 - 30 July, 2021
+Week: 25 July, 2021 - 31 July, 2021
 
 Other   19 mins         █████████████████████████   100.00 % 
 ```
