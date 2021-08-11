@@ -63,7 +63,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 August, 2021 - 09 August, 2021
+Week: 04 August, 2021 - 10 August, 2021
 
 HTML            43 mins         █████████▒░░░░░░░░░░░░░░░   37.40 % 
 CSS             38 mins         ████████▒░░░░░░░░░░░░░░░░   32.89 % 
