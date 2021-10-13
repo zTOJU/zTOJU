@@ -63,8 +63,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 October, 2021 - 11 October, 2021
+Week: 06 October, 2021 - 12 October, 2021
 
-Lua   27 mins         █████████████████████████   100.00 % 
+Lua   21 mins         █████████████████████████   99.86 % 
 ```
 <!--END_SECTION:waka-->
