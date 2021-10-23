@@ -63,9 +63,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 October, 2021 - 21 October, 2021
+Week: 16 October, 2021 - 22 October, 2021
 
-Lua     1 hr 45 mins    ██████████████████████▒░░   89.62 % 
-Other   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Lua     1 hr 40 mins    ████████████████████████▒   97.43 % 
+Other   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 ```
 <!--END_SECTION:waka-->
