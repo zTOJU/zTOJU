@@ -63,8 +63,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2021 - 08 November, 2021
+Week: 03 November, 2021 - 09 November, 2021
 
-Lua   1 hr 9 mins     █████████████████████████   100.00 % 
+Lua   1 hr 20 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
