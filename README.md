@@ -63,8 +63,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
+Week: 18 November, 2021 - 24 November, 2021
 
-Lua   1 min           █████████████████████████   100.00 % 
+Other      9 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
