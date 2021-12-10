@@ -63,8 +63,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2021 - 08 December, 2021
+Week: 03 December, 2021 - 09 December, 2021
 
-Lua    28 mins         ████████████████████████▓   99.07 % 
+Lua     42 mins         █████████████▒░░░░░░░░░░░   53.88 % 
+Other   36 mins         ███████████▒░░░░░░░░░░░░░   45.79 % 
 ```
 <!--END_SECTION:waka-->
