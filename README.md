@@ -63,7 +63,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2021 - 13 December, 2021
+Week: 08 December, 2021 - 14 December, 2021
 
 Other   36 mins         ████████████████░░░░░░░░░   64.10 % 
 Lua     20 mins         █████████░░░░░░░░░░░░░░░░   35.90 % 
