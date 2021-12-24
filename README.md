@@ -59,6 +59,10 @@
   <dd>• <a href="https://www.gmodstore.com/users/TOJU/addons">Content Creator</a></dd>
   <dd>• <a href="https://www.gmodstore.com/users/TOJU/reputation">Freelancer</a></dd>
 </ul>
+<ul>
+  <li><a href="https://externalgaming.xyz/">External Gaming</a></li>
+  <dd>• employed 3D modeler</dd>
+</ul>
 <h3>📊 Stats</h3>
 
 <!--START_SECTION:waka-->
