@@ -67,8 +67,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 December, 2021 - 26 December, 2021
+Week: 21 December, 2021 - 27 December, 2021
 
-Other   1 min           █████████████████████████   100.00 % 
+Other   4 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
