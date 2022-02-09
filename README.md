@@ -15,7 +15,7 @@
 </p>
 <hr>
 <h3>🛠️ Skills</h3>
-<h4>Daily Drivers:</h4>
+<h4>Daily drivers:</h4>
 <p align="left">
   <code><a href="http://www.lua.org/"><img height="50" alt="Lua" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/lua.svg"></a></code>
   <code><a href="https://www.mysql.com/"><img height="50" alt="MySQL" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/mysql.svg"></a></code>
@@ -26,7 +26,7 @@
   <code><a href="https://www.substance3d.com/products/substance-painter/"><img height="50" alt="Substance Painter" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/substancepainter.svg"></a></code>
   <code><a href="https://www.gimp.org/"><img height="50" alt="Gimp" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/gimp.svg"></a></code>
 </p>
-<h4>Experienced With:</h4>
+<h4>Experienced with:</h4>
 <p align="left">
   <code><a href="https://de.wikipedia.org/wiki/HTML5"><img height="50" alt="HTML5" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/html5.svg"></a></code>
   <code><a href="https://de.wikipedia.org/wiki/Cascading_Style_Sheets"><img height="50" alt="CSS3" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/css3.svg"></a></code>
@@ -42,7 +42,7 @@
   <code><a href="https://www.python.org/"><img height="50" alt="Python" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/python.svg"></a></code>
   <code><a href="https://unity.com/"><img height="50" alt="Unity" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/unity.svg"></a></code>
 </p>
-<h4>Currently Experimenting With (Learning):</h4>
+<h4>Currently experimenting with (Learning):</h4>
 <p align="left">
   <code><a href="https://github.com/WoltLab/WCF"><img height="50" alt="WSC" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/woltlab.svg"></a></code>
   <code><a href="https://laravel.com/"><img height="50" alt="Laravel" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/laravel.svg"></a></code>
@@ -53,7 +53,7 @@
   <code><a href="https://redis.io/"><img height="50" alt="Redis" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/redis.svg"></a></code>
   <code><a href="https://www.docker.com/"><img height="50" alt="Docker" src="https://raw.githubusercontent.com/zTOJU/zTOJU/main/assets/docker.svg"></a></code>
 </p>
-<h3>🚧 Projects</h3>
+<h3>🚧 Current projects</h3>
 <ul>
   <li><a href="https://www.gmodstore.com/users/TOJU">GModStore</a></li>
   <dd>• <a href="https://www.gmodstore.com/users/TOJU/addons">Content Creator</a></dd>
