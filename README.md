@@ -63,10 +63,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2022 - 16 February, 2022
+Week: 11 February, 2022 - 17 February, 2022
 
-Total: 0 secs
+Total: 1 hr 50 mins
 
-
+Lua    1 hr 50 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
