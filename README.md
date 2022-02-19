@@ -63,10 +63,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
-Total: 1 hr 50 mins
+Total: 3 hrs 36 mins
 
-Lua    1 hr 50 mins    █████████████████████████   100.00 % 
+Lua    3 hrs 28 mins   ████████████████████████░   96.23 % 
+JSON   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 ```
 <!--END_SECTION:waka-->
