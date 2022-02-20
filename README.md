@@ -63,9 +63,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
-
-Total: 3 hrs 36 mins
+Week: 13 February, 2022 - 19 February, 2022
 
 Lua    3 hrs 28 mins   ████████████████████████░   96.23 % 
 JSON   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
