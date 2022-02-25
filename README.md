@@ -63,9 +63,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 15 February, 2022 - To: 22 February, 2022
+From: 16 February, 2022 - To: 23 February, 2022
 
-Lua    3 hrs 28 mins   ████████████████████████░   96.23 % 
-JSON   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Lua    1 hr 37 mins    ███████████████████████░░   92.29 % 
+JSON   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 ```
 <!--END_SECTION:waka-->
