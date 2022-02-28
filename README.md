@@ -62,7 +62,11 @@
 <h3>📊 Stats</h3>
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+From: 20 February 2022 - To: 27 February 2022
+
+Other   10 mins         █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
