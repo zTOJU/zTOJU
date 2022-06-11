@@ -1,4 +1,3 @@
-<p align="center"><a href="https://www.gmodstore.com/users/TOJU" target="_blank"><img src="https://toju.xyz/gms-stats/"/></a></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Job-Student%20(elite%20boarding%20school%20for%20sports)-blue"/>
   <img src="https://img.shields.io/badge/Lives-Germany-blue"/>
