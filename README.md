@@ -63,7 +63,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 05 September 2022 - To: 12 September 2022
+
+Lua   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
