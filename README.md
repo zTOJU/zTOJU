@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/badge/Focus-Game%20%26%20Web Development-brightgreen"/>
   <img src="https://img.shields.io/badge/Expert-3D%20Modeling-brightgreen"/>
   <br>
-  <a href="https://toju.xyz/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&link=https://toju.xyz/"/></a>
-  <a href="https://toju.xyz/discord"><img src="https://img.shields.io/discord/709853073039687761?color=blueviolet&label=Discord&logo=discord&logoColor=white&link=https://toju.xyz/discord/"/></a>
+  <a href="https://toju.dev/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&link=https://toju.dev/"/></a>
+  <a href="https://toju.dev/discord"><img src="https://img.shields.io/discord/709853073039687761?color=blueviolet&label=Discord&logo=discord&logoColor=white&link=https://toju.dev/discord/"/></a>
   <a href="https://steamcommunity.com/id/zTOJU/"><img src="https://img.shields.io/badge/Steam-blue?logo=Steam&logoColor=white&link=https://steamcommunity.com/id/zTOJU/"/></a>
   <a href="https://www.youtube.com/channel/UCxCbplvjzZZlNz9eIFoOgRQ"><img src="https://img.shields.io/badge/YouTube-critical?logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCxCbplvjzZZlNz9eIFoOgRQ"/></a>
   <a href="https://sketchfab.com/ztoju"><img src="https://img.shields.io/badge/Sketchfab-informational?logo=Sketchfab&logoColor=white&link=https://sketchfab.com/ztoju"/></a>
