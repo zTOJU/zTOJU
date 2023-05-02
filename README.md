@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Expert-3D%20Modeling-brightgreen"/>
   <br>
   <a href="https://toju.dev/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&link=https://toju.dev/"/></a>
-  <a href="https://toju.dev/discord"><img src="https://img.shields.io/discord/709853073039687761?color=blueviolet&label=Discord&logo=discord&logoColor=white&link=https://toju.dev/discord/"/></a>
+  <a href="https://discord.gg/UvGatus"><img src="https://img.shields.io/discord/709853073039687761?color=blueviolet&label=Discord&logo=discord&logoColor=white&link=https://discord.gg/UvGatus"/></a>
   <a href="https://steamcommunity.com/id/zTOJU/"><img src="https://img.shields.io/badge/Steam-blue?logo=Steam&logoColor=white&link=https://steamcommunity.com/id/zTOJU/"/></a>
   <a href="https://www.youtube.com/channel/UCxCbplvjzZZlNz9eIFoOgRQ"><img src="https://img.shields.io/badge/YouTube-critical?logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCxCbplvjzZZlNz9eIFoOgRQ"/></a>
   <a href="https://sketchfab.com/ztoju"><img src="https://img.shields.io/badge/Sketchfab-informational?logo=Sketchfab&logoColor=white&link=https://sketchfab.com/ztoju"/></a>
@@ -58,12 +58,5 @@
   <dd>• <a href="https://www.gmodstore.com/users/TOJU/addons">Content Creator</a></dd>
   <dd>• <a href="https://www.gmodstore.com/users/TOJU/reputation">Freelancer</a></dd>
 </ul>
-<h3>📊 Stats</h3>
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<h3>📊 Total time coded since Dec 20 2020</h3>
+<a href="https://wakatime.com/@9df606fb-87c1-44aa-87fa-a3fdbdebf7b7"><img src="https://wakatime.com/badge/user/9df606fb-87c1-44aa-87fa-a3fdbdebf7b7.svg" alt="Total time coded since Dec 20 2020" /></a>
